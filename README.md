@@ -66,20 +66,18 @@ High-level only — details and timeline live on [LinkedIn](https://www.linkedin
 
 ---
 
-## Featured public work
+## Pinned on GitHub
 
-Weekend and learning showcases — security, agents, and cloud-native experiments (public repos only):
+Public repositories pinned on GitHub, in order:
 
 | Repo | What it is |
 |------|------------|
-| [mcp-call-attestation-lite](https://github.com/sheshisheri-hi/mcp-call-attestation-lite) | MCP tool-call attestation + schema digest pin + hash-linked audit trail sample |
-| [mcp-meta-gate-showcase](https://github.com/sheshisheri-hi/mcp-meta-gate-showcase) | Client interceptor + server gate — attestation required, audit ≠ auth |
-| [mcp-atsa-admission](https://github.com/sheshisheri-hi/mcp-atsa-admission) | Attested Tool-Server Admission before MCP tool dispatch |
-| [mcp-discovery-sanitizer](https://github.com/sheshisheri-hi/mcp-discovery-sanitizer) | Filter poisoned `tools/list` / instructions before agents trust them |
-| [agent-harbor](https://github.com/sheshisheri-hi/agent-harbor) | Educational AI agent security control-plane showcase |
-| [ai-system-testing-showcase](https://github.com/sheshisheri-hi/ai-system-testing-showcase) | AI system testing pipeline (HR Policy Copilot / RAG learning showcase) |
-| [jev-vs-llm-stock-policy](https://github.com/sheshisheri-hi/jev-vs-llm-stock-policy) | Traditional LLM vs TypeSafe Jev on stock order policy decisions |
-| [evar-admit](https://github.com/sheshisheri-hi/evar-admit) | Evidence-Validated Hypothesis Admission patterns |
+| [AgenticConductor](https://github.com/sheshisheri-hi/AgenticConductor) | Agentic workflow orchestration showcase (Python) |
+| [ai-system-testing-showcase](https://github.com/sheshisheri-hi/ai-system-testing-showcase) | Learning showcase: AI system testing pipeline for an HR Policy Copilot (RAG) (Python) |
+| [conductor-sample-app](https://github.com/sheshisheri-hi/conductor-sample-app) | Sample app with intentional issues for Conductor multi-agent workflows (Python) |
+| [mcp-ui-app-showcase](https://github.com/sheshisheri-hi/mcp-ui-app-showcase) | MCP UI application showcase (JavaScript) |
+| [token-optimizer](https://github.com/sheshisheri-hi/token-optimizer) | Token optimization tools and patterns (Go) |
+| [agent-harbor](https://github.com/sheshisheri-hi/agent-harbor) | AgentHarbor educational AI agent security control plane showcase (Python) |
 
 More on my profile: [github.com/sheshisheri-hi](https://github.com/sheshisheri-hi) · personal site: [sheshisheri-hi.github.io](https://sheshisheri-hi.github.io/)
 
