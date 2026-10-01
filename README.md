@@ -12,7 +12,7 @@
 
 ## About
 
-I focus on cloud adoption and modernization — designing application and platform architectures that hold up in production. Security and operability are first-class concerns, from the first sketch through delivery and day-two operations.
+I focus on cloud adoption and modernization — designing application and platform architectures that hold up in production. I'm a **purpose-built database expert**, matching relational, document, key-value, graph, and analytics data stores to workload patterns for modernization and cloud architectures. Security and operability are first-class concerns, from the first sketch through delivery and day-two operations.
 
 I'm a hands-on, polyglot technologist who connects stack, platform, and systems, and I'm always learning. Based in the **Waltham / Bedford, Massachusetts** area.
 
@@ -21,6 +21,7 @@ I'm a hands-on, polyglot technologist who connects stack, platform, and systems,
 ## Focus
 
 - **Cloud adoption & modernization** — Azure-centric application and platform architecture, microservices, Kubernetes, and data platforms
+- **Purpose-built databases** — matching relational, document, key-value, graph, and analytics stores to workload patterns
 - **Security & operability** — cloud security posture, threat-aware design, observability, and reliable production systems
 - **Architecture & delivery** — pragmatic trade-offs from the first sketch through day-two operations
 - **AI / ML pipelines & agent systems** — practical patterns for reliable, testable AI-assisted systems
@@ -33,13 +34,13 @@ I'm a hands-on, polyglot technologist who connects stack, platform, and systems,
 | Area | Tools & practices |
 |------|-------------------|
 | Cloud | Microsoft Azure, cloud-native patterns, IaC-minded delivery |
-| Platforms | Kubernetes, microservices, APIs, data management |
+| Platforms | Kubernetes, microservices, APIs, data management, purpose-built databases |
 | Languages | Python, .NET / C#, JavaScript/TypeScript, and more as needed |
 | AI / agents | ML pipelines, RAG/testing showcases, MCP security samples |
 | Practices | Architecture reviews, threat-aware design, CI/CD, observability |
 
 ```text
-Azure · Kubernetes · Microservices · Python · .NET · AI/ML · MCP · Cloud Security
+Azure · Kubernetes · Microservices · Purpose-built Databases · Python · .NET · AI/ML · MCP · Cloud Security
 ```
 
 ---
