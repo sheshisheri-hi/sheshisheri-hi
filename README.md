@@ -6,25 +6,25 @@
 [![Location](https://img.shields.io/badge/Location-Waltham%20%2F%20Bedford%2C%20MA-6c63ff?style=flat-square)](https://github.com/sheshisheri-hi)
 [![Site](https://img.shields.io/badge/Site-sheshisheri--hi.github.io-2ea44f?style=flat-square)](https://sheshisheri-hi.github.io/)
 
-**Director, Cloud Application Architecture** · ~23 years building and leading engineering · cloud adoption, security-minded design, and polyglot delivery.
+**Director, Cloud Application Architecture** · ~23 years across engineering and architecture · cloud modernization, security-minded design, and polyglot delivery.
 
 ---
 
 ## About
 
-I'm an approachable Director-level engineering leader who still stays hands-on. I lead engineering and cross-functional teams through cloud adoption and modernization — architecture that holds up in production, with security and operability as first-class concerns.
+I focus on cloud adoption and modernization — designing application and platform architectures that hold up in production. Security and operability are first-class concerns, from the first sketch through delivery and day-two operations.
 
-Based in the **Waltham / Bedford, Massachusetts** area. Always learning; always connecting the dots across stack, platform, and people.
+I'm a hands-on, polyglot technologist who connects stack, platform, and systems, and I'm always learning. Based in the **Waltham / Bedford, Massachusetts** area.
 
 ---
 
 ## Focus
 
-- **Cloud application architecture** — Azure-centric design, microservices, Kubernetes, data platforms
-- **Security & trust** — cloud security posture, threat-aware design, agent/MCP tooling experiments
-- **Engineering leadership** — team building, cross-functional delivery, pragmatic architecture reviews
+- **Cloud adoption & modernization** — Azure-centric application and platform architecture, microservices, Kubernetes, and data platforms
+- **Security & operability** — cloud security posture, threat-aware design, observability, and reliable production systems
+- **Architecture & delivery** — pragmatic trade-offs from the first sketch through day-two operations
 - **AI / ML pipelines & agent systems** — practical patterns for reliable, testable AI-assisted systems
-- **Full-stack & polyglot craft** — Python and beyond; smart-contracts curiosity on the side
+- **Full-stack & polyglot craft** — hands-on Python, .NET, JavaScript/TypeScript, and more as needed
 
 ---
 
@@ -91,7 +91,7 @@ More on my profile: [github.com/sheshisheri-hi](https://github.com/sheshisheri-h
 - **GitHub:** [github.com/sheshisheri-hi](https://github.com/sheshisheri-hi)
 - **Site:** [sheshisheri-hi.github.io](https://sheshisheri-hi.github.io/)
 
-Happy to talk cloud architecture, security-minded design, and building teams that ship.
+Happy to talk cloud modernization, production architecture, security, and operability.
 
 ---
 
