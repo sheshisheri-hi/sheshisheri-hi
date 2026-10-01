@@ -49,7 +49,7 @@ Azure · Kubernetes · Microservices · Purpose-built Databases · Python · .NE
 
 - **Microsoft Azure Solutions Architect** — cloud design and delivery at scale
 - **Cloud security** — ongoing learning including Azure Security Engineer–oriented topics (certifications and practice evolve; I stay current rather than treating badges as the whole story)
-- Continuous exploration of AI agent security, MCP protocol patterns, and architectural trade-offs
+- Continuous exploration of cloud platforms, purpose-built data architecture, and production security trade-offs
 
 ---
 
